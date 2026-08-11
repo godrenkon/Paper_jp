@@ -28,6 +28,10 @@ jobs:
         run: |
           mkdir -p release-artifacts
           find . -type f -path "*/build/libs/*.jar" -exec cp -u {} release-artifacts/ \;
+          # If a paper-paperclip jar exists, copy it as paper.jar for consistent release download
+          if compgen -G "paper-server/build/libs/paper-paperclip-*.jar" > /dev/null; then
+            cp -f $(ls paper-server/build/libs/paper-paperclip-*.jar | head -n1) release-artifacts/paper.jar
+          fi
           ls -la release-artifacts || true
 
       - name: Create GitHub Release and upload assets
@@ -35,7 +39,10 @@ jobs:
         with:
           tag: ${{ github.ref_name }}
           name: Release ${{ github.ref_name }}
-          artifacts: release-artifacts/*.jar
+          # Prefer the unified paper.jar if present
+          artifacts: |
+            release-artifacts/paper.jar
+            release-artifacts/*.jar
 name: Release Paper
 
 on:
@@ -70,10 +77,16 @@ jobs:
 
       - name: Build paperclip jar
         run: ./gradlew createPaperclipJar --stacktrace
+      - name: Prepare release artifact
+        run: |
+          mkdir -p release-artifacts
+          if compgen -G "paper-server/build/libs/paper-paperclip-*.jar" > /dev/null; then
+            cp -f $(ls paper-server/build/libs/paper-paperclip-*.jar | head -n1) release-artifacts/paper.jar
+          fi
 
       - name: Upload release artifact
         uses: softprops/action-gh-release@v1
         with:
-          files: paper-server/build/libs/paper-paperclip-*.jar
+          files: release-artifacts/paper.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
