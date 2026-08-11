@@ -4,9 +4,6 @@ on:
   push:
     tags:
       - 'v*'
-  release:
-    types: [published]
-  workflow_dispatch:
 
 jobs:
   build-and-release:
@@ -29,14 +26,11 @@ jobs:
       - name: Make Gradle wrapper executable
         run: chmod +x ./gradlew
 
-      - name: Apply patches
+      - name: Apply patches and build paperclip JAR
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          ./gradlew applyPatches --stacktrace --no-daemon
-
-      - name: Build paperclip JAR
-        run: ./gradlew createPaperclipJar --stacktrace --no-daemon
+          ./gradlew --no-daemon --max-workers=1 applyPatches createPaperclipJar -PvineflowerHeapSize=4G --stacktrace
 
       - name: Prepare release artifact
         run: |
@@ -52,9 +46,10 @@ jobs:
           ls -la release-artifacts
 
       - name: Create GitHub Release and upload artifact
-        uses: ncipollo/release-action@v1
+        uses: softprops/action-gh-release@v1
         with:
-          tag: ${{ github.event_name == 'release' && github.event.release.tag_name || github.ref_name }}
-          name: Release ${{ github.event_name == 'release' && github.event.release.tag_name || github.ref_name }}
-          draft: false
-          artifacts: release-artifacts/paper.jar
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          files: release-artifacts/paper.jar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
