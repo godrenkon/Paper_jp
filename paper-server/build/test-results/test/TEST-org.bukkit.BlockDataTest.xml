@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.BlockDataTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:05:04.205Z" hostname="codespaces-8b369d" time="0.025">
+  <properties/>
+  <testcase name="testMergeFullySpecifiedBannerData()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testDoubleMaterial()" classname="org.bukkit.BlockDataTest" time="0.011"/>
+  <testcase name="testBadSyntax()" classname="org.bukkit.BlockDataTest" time="0.001"/>
+  <testcase name="testItemParse()" classname="org.bukkit.BlockDataTest" time="0.001"/>
+  <testcase name="testClone()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testMatch()" classname="org.bukkit.BlockDataTest" time="0.001"/>
+  <testcase name="testMerge()" classname="org.bukkit.BlockDataTest" time="0.001"/>
+  <testcase name="testParsing()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testMergeFullySpecifiedLogData()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testCannotMerge1()" classname="org.bukkit.BlockDataTest" time="0.001"/>
+  <testcase name="testCannotMerge2()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testCannotMerge3()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testGetAsString2()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testGetAsString()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testMergeAny()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testMistake()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <testcase name="testBadMaterial()" classname="org.bukkit.BlockDataTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

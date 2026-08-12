@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.configuration.file.YamlConfigurationTest" tests="35" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:03.410Z" hostname="codespaces-8b369d" time="0.47">
+  <properties/>
+  <testcase name="testAddDefaults_Configuration_WithExisting()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.035"/>
+  <testcase name="testAddDefault()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.001"/>
+  <testcase name="testAddDefaults_Configuration()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testAddDefaults_Map()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.007"/>
+  <testcase name="testCreateSection()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.004"/>
+  <testcase name="testSetDefaults()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testGetDefaults()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.005"/>
+  <testcase name="testLoadWithCommentsFooter()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.222"/>
+  <testcase name="testLoadWithCommentsHeader()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.007"/>
+  <testcase name="testLoad_String()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.005"/>
+  <testcase name="testLoadWithCommentsInline()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.002"/>
+  <testcase name="testSaveToString()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.004"/>
+  <testcase name="testSave_String()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.017"/>
+  <testcase name="testSaveWithComments()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.004"/>
+  <testcase name="testReloadClear()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.002"/>
+  <testcase name="testLoadWithoutComments()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.005"/>
+  <testcase name="testLoadWithComments()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.005"/>
+  <testcase name="testReloadEmptyConfig()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.001"/>
+  <testcase name="testSave_File()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testReloadClear2()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.002"/>
+  <testcase name="testReloadClear3()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.002"/>
+  <testcase name="testSaveWithoutComments()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testSaveWithCommentsFooter()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testSaveWithCommentsHeader()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.003"/>
+  <testcase name="testSaveWithCommentsInline()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.004"/>
+  <testcase name="testLoadFromString()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.007"/>
+  <testcase name="testLoad_File()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.006"/>
+  <testcase name="testNestedConfigSections()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.005"/>
+  <testcase name="testUnusualMappingKeys()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.007"/>
+  <testcase name="testAnchorNode()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.009"/>
+  <testcase name="testMergeNode()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.017"/>
+  <testcase name="testOnlyHeader()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.011"/>
+  <testcase name="testReference()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.011"/>
+  <testcase name="testSaveToStringWithIndent()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.002"/>
+  <testcase name="test100Comments()" classname="org.bukkit.configuration.file.YamlConfigurationTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

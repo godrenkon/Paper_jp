@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.ChatPaginatorTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:57.434Z" hostname="codespaces-8b369d" time="0.086">
+  <properties/>
+  <testcase name="testWordWrap10()" classname="org.bukkit.ChatPaginatorTest" time="0.006"/>
+  <testcase name="testWordWrap11()" classname="org.bukkit.ChatPaginatorTest" time="0.004"/>
+  <testcase name="testWordWrap12()" classname="org.bukkit.ChatPaginatorTest" time="0.0"/>
+  <testcase name="testWordWrap13()" classname="org.bukkit.ChatPaginatorTest" time="0.009"/>
+  <testcase name="testWordWrap1()" classname="org.bukkit.ChatPaginatorTest" time="0.0"/>
+  <testcase name="testWordWrap2()" classname="org.bukkit.ChatPaginatorTest" time="0.003"/>
+  <testcase name="testWordWrap3()" classname="org.bukkit.ChatPaginatorTest" time="0.003"/>
+  <testcase name="testWordWrap4()" classname="org.bukkit.ChatPaginatorTest" time="0.0"/>
+  <testcase name="testWordWrap5()" classname="org.bukkit.ChatPaginatorTest" time="0.003"/>
+  <testcase name="testWordWrap6()" classname="org.bukkit.ChatPaginatorTest" time="0.001"/>
+  <testcase name="testWordWrap7()" classname="org.bukkit.ChatPaginatorTest" time="0.007"/>
+  <testcase name="testWordWrap8()" classname="org.bukkit.ChatPaginatorTest" time="0.006"/>
+  <testcase name="testWordWrap9()" classname="org.bukkit.ChatPaginatorTest" time="0.007"/>
+  <testcase name="testPaginate1()" classname="org.bukkit.ChatPaginatorTest" time="0.006"/>
+  <testcase name="testPaginate2()" classname="org.bukkit.ChatPaginatorTest" time="0.001"/>
+  <testcase name="testPaginate3()" classname="org.bukkit.ChatPaginatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

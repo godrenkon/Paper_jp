@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.generator.ChunkDataTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:23.199Z" hostname="codespaces-8b369d" time="0.395">
+  <properties/>
+  <testcase name="testBoundsCheckingSingle()" classname="org.bukkit.craftbukkit.generator.ChunkDataTest" time="0.015"/>
+  <testcase name="testMaxHeight()" classname="org.bukkit.craftbukkit.generator.ChunkDataTest" time="0.001"/>
+  <testcase name="testMinHeight()" classname="org.bukkit.craftbukkit.generator.ChunkDataTest" time="0.001"/>
+  <testcase name="testSetRegion()" classname="org.bukkit.craftbukkit.generator.ChunkDataTest" time="0.137"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

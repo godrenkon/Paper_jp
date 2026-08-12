@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.LastChatColorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:58.884Z" hostname="codespaces-8b369d" time="0.05">
+  <properties/>
+  <testcase name="[1] input = &quot;§ctest§otest§&quot;, expected = &quot;§c§o&quot;" classname="org.bukkit.LastChatColorTest" time="0.006"/>
+  <testcase name="[2] input = &quot;§ctest§9test&quot;, expected = &quot;§9&quot;" classname="org.bukkit.LastChatColorTest" time="0.0"/>
+  <testcase name="[3] input = &quot;§x§1§2§3§4§5§6&quot;, expected = &quot;§x§1§2§3§4§5§6&quot;" classname="org.bukkit.LastChatColorTest" time="0.004"/>
+  <testcase name="[4] input = &quot;§y§1§2§3§4§5§6&quot;, expected = &quot;§6&quot;" classname="org.bukkit.LastChatColorTest" time="0.0"/>
+  <testcase name="[5] input = &quot;§3§4§5§6&quot;, expected = &quot;§6&quot;" classname="org.bukkit.LastChatColorTest" time="0.001"/>
+  <testcase name="[6] input = &quot;Test2§x§1§f§3§4§F§6test§l&quot;, expected = &quot;§x§1§f§3§4§F§6§l&quot;" classname="org.bukkit.LastChatColorTest" time="0.001"/>
+  <testcase name="[7] input = &quot;Test2§x§P§f§3§4§F§6test§l&quot;, expected = &quot;§6§l&quot;" classname="org.bukkit.LastChatColorTest" time="0.001"/>
+  <testcase name="[8] input = &quot;Test2§x§fxf§3§4§F§6test§l&quot;, expected = &quot;§6§l&quot;" classname="org.bukkit.LastChatColorTest" time="0.0"/>
+  <testcase name="[9] input = &quot;Test2§x§1§4§F§6test§l&quot;, expected = &quot;§6§l&quot;" classname="org.bukkit.LastChatColorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

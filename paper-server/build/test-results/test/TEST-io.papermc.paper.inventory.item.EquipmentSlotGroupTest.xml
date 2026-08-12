@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:40.173Z" hostname="codespaces-8b369d" time="0.023">
+  <properties/>
+  <testcase name="[1] slotGroup = ANY" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.01"/>
+  <testcase name="[2] slotGroup = MAINHAND" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[3] slotGroup = OFFHAND" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[4] slotGroup = HAND" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[5] slotGroup = FEET" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[6] slotGroup = LEGS" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.001"/>
+  <testcase name="[7] slotGroup = CHEST" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[8] slotGroup = HEAD" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[9] slotGroup = ARMOR" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[10] slotGroup = BODY" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[11] slotGroup = SADDLE" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.001"/>
+  <testcase name="[1] slotGroup = any" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[2] slotGroup = mainhand" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[3] slotGroup = offhand" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[4] slotGroup = hand" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.001"/>
+  <testcase name="[5] slotGroup = feet" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[6] slotGroup = legs" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.001"/>
+  <testcase name="[7] slotGroup = chest" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[8] slotGroup = head" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[9] slotGroup = armor" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[10] slotGroup = body" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <testcase name="[11] slotGroup = saddle" classname="io.papermc.paper.inventory.item.EquipmentSlotGroupTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

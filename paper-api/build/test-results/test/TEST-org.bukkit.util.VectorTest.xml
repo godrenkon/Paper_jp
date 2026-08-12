@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.util.VectorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:06.948Z" hostname="codespaces-8b369d" time="0.022">
+  <properties/>
+  <testcase name="testRotationAroundX()" classname="org.bukkit.util.VectorTest" time="0.001"/>
+  <testcase name="testRotationAroundY()" classname="org.bukkit.util.VectorTest" time="0.001"/>
+  <testcase name="testRotationAroundZ()" classname="org.bukkit.util.VectorTest" time="0.0"/>
+  <testcase name="testRotationAroundAxis()" classname="org.bukkit.util.VectorTest" time="0.001"/>
+  <testcase name="testNormalisedVectors()" classname="org.bukkit.util.VectorTest" time="0.004"/>
+  <testcase name="testSmallAngle()" classname="org.bukkit.util.VectorTest" time="0.003"/>
+  <testcase name="testRotationAroundAxisNonUnit()" classname="org.bukkit.util.VectorTest" time="0.001"/>
+  <testcase name="testRotationAroundYUsingCustomAxis()" classname="org.bukkit.util.VectorTest" time="0.0"/>
+  <testcase name="testNullVectorAxis()" classname="org.bukkit.util.VectorTest" time="0.001"/>
+  <testcase name="testResizeAxis()" classname="org.bukkit.util.VectorTest" time="0.003"/>
+  <testcase name="testIsZero()" classname="org.bukkit.util.VectorTest" time="0.0"/>
+  <testcase name="testBypassingAxisVector()" classname="org.bukkit.util.VectorTest" time="0.0"/>
+  <testcase name="testRotationAroundCustomAngle()" classname="org.bukkit.util.VectorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

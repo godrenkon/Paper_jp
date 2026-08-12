@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.util.BoundingBoxTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:06.831Z" hostname="codespaces-8b369d" time="0.03">
+  <properties/>
+  <testcase name="testSerialization()" classname="org.bukkit.util.BoundingBoxTest" time="0.003"/>
+  <testcase name="testShift()" classname="org.bukkit.util.BoundingBoxTest" time="0.001"/>
+  <testcase name="testUnion()" classname="org.bukkit.util.BoundingBoxTest" time="0.001"/>
+  <testcase name="testConstruction()" classname="org.bukkit.util.BoundingBoxTest" time="0.003"/>
+  <testcase name="testContains()" classname="org.bukkit.util.BoundingBoxTest" time="0.001"/>
+  <testcase name="testExpansion()" classname="org.bukkit.util.BoundingBoxTest" time="0.002"/>
+  <testcase name="testDegenerate()" classname="org.bukkit.util.BoundingBoxTest" time="0.002"/>
+  <testcase name="testIntersection()" classname="org.bukkit.util.BoundingBoxTest" time="0.002"/>
+  <testcase name="testOverlaps()" classname="org.bukkit.util.BoundingBoxTest" time="0.001"/>
+  <testcase name="testRayTrace()" classname="org.bukkit.util.BoundingBoxTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

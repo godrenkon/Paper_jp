@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.metadata.LazyMetadataValueTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:05.083Z" hostname="codespaces-8b369d" time="0.01">
+  <properties/>
+  <testcase name="testCacheStrategyEternally()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.002"/>
+  <testcase name="testCacheStrategyCacheAfterFirstEval()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.001"/>
+  <testcase name="testLazyInt()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.001"/>
+  <testcase name="testCacheStrategyNeverCache()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.001"/>
+  <testcase name="testLazyDouble()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.0"/>
+  <testcase name="testLazyString()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.0"/>
+  <testcase name="testEvalException()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.001"/>
+  <testcase name="testLazyBoolean()" classname="org.bukkit.metadata.LazyMetadataValueTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

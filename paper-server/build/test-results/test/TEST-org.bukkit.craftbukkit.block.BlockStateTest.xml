@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.block.BlockStateTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:03:47.728Z" hostname="codespaces-8b369d" time="0.079">
+  <properties/>
+  <testcase name="testBlockEntityTypes()" classname="org.bukkit.craftbukkit.block.BlockStateTest" time="0.033"/>
+  <testcase name="testBlockEntityBlockStates()" classname="org.bukkit.craftbukkit.block.BlockStateTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

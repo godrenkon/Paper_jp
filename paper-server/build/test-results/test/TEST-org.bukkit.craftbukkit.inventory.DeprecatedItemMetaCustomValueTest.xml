@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:23.113Z" hostname="codespaces-8b369d" time="0.078">
+  <properties/>
+  <testcase name="encapsulatedContainers()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.003"/>
+  <testcase name="testYAMLStoring()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.037"/>
+  <testcase name="storeUUIDOnItemTest()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.002"/>
+  <testcase name="testPrimitiveCustomTags()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.001"/>
+  <testcase name="testNBTTagStoring()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.002"/>
+  <testcase name="testHasNoAdapter()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.002"/>
+  <testcase name="testDifferentNamespace()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.0"/>
+  <testcase name="testGetNoAdapter()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.001"/>
+  <testcase name="testGetWrongType()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.001"/>
+  <testcase name="testCorrectType()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.008"/>
+  <testcase name="testMapStoring()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.012"/>
+  <testcase name="testSetNoAdapter()" classname="org.bukkit.craftbukkit.inventory.DeprecatedItemMetaCustomValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

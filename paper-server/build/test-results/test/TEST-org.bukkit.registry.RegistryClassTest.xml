@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.registry.RegistryClassTest" tests="9" skipped="9" failures="0" errors="0" timestamp="2026-08-11T21:03:33.179Z" hostname="codespaces-8b369d" time="0.004">
+  <properties/>
+  <testcase name="testExcessNullCheck(Class, ResourceKey, List)" classname="org.bukkit.registry.RegistryClassTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testExcessExperimentalAnnotation(Class, ResourceKey, List)" classname="org.bukkit.registry.RegistryClassTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testNoNullValuePresent(Class)" classname="org.bukkit.registry.RegistryClassTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testOutsideRequests(Class)" classname="org.bukkit.registry.RegistryClassTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testForNullValues(Class)" classname="org.bukkit.registry.RegistryClassTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testMissingExperimentalAnnotation(Class, ResourceKey, List)" classname="org.bukkit.registry.RegistryClassTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testMatchingFieldNames(Class, ResourceKey, List)" classname="org.bukkit.registry.RegistryClassTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testMissingConstants(Class, ResourceKey)" classname="org.bukkit.registry.RegistryClassTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testMissingNullCheck(Class, ResourceKey, List)" classname="org.bukkit.registry.RegistryClassTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

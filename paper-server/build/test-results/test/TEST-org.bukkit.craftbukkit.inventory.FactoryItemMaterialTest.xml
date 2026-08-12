@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.FactoryItemMaterialTest" tests="4" skipped="4" failures="0" errors="0" timestamp="2026-08-11T21:04:02.818Z" hostname="codespaces-8b369d" time="0.0">
+  <properties/>
+  <testcase name="blankEqualities(Material)" classname="org.bukkit.craftbukkit.inventory.FactoryItemMaterialTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="itemStack(Material)" classname="org.bukkit.craftbukkit.inventory.FactoryItemMaterialTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="asMetaFor(Material)" classname="org.bukkit.craftbukkit.inventory.FactoryItemMaterialTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="generalCase(Material)" classname="org.bukkit.craftbukkit.inventory.FactoryItemMaterialTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

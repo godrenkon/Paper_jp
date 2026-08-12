@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.legacy.LegacyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:15.381Z" hostname="codespaces-8b369d" time="7.731">
+  <properties/>
+  <testcase name="testRestricted()" classname="org.bukkit.craftbukkit.legacy.LegacyTest" time="7.715"/>
+  <testcase name="fromLegacyMaterial()" classname="org.bukkit.craftbukkit.legacy.LegacyTest" time="0.005"/>
+  <testcase name="testManual()" classname="org.bukkit.craftbukkit.legacy.LegacyTest" time="0.002"/>
+  <testcase name="toLegacyMaterial()" classname="org.bukkit.craftbukkit.legacy.LegacyTest" time="0.006"/>
+  <system-out><![CDATA[[21:04:15 WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

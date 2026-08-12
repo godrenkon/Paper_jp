@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.PlayerInventoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:35.720Z" hostname="codespaces-8b369d" time="0.007">
+  <properties/>
+  <testcase name="testCanHold()" classname="org.bukkit.craftbukkit.inventory.PlayerInventoryTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

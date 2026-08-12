@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.inventory.recipe.TestRecipeChoice" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:02.923Z" hostname="codespaces-8b369d" time="0.099">
+  <properties/>
+  <testcase name="testRecipeChoices()" classname="io.papermc.paper.inventory.recipe.TestRecipeChoice" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

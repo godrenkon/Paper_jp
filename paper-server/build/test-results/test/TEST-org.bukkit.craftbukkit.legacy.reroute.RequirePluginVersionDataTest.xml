@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:35.752Z" hostname="codespaces-8b369d" time="0.01">
+  <properties/>
+  <testcase name="testOnlyMax()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testOnlyMin()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testValue()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testSame()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testNewerOpenRangeData()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testMinNewerThanMax()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testOlderOpenRangeData()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testRangeData()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testExactData()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testValueAndMinMax()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testValueAndMax()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.0"/>
+  <testcase name="testValueAndMin()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <testcase name="testDifferent()" classname="org.bukkit.craftbukkit.legacy.reroute.RequirePluginVersionDataTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

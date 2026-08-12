@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.item.ItemStackDataComponentTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:03.064Z" hostname="codespaces-8b369d" time="0.081">
+  <properties/>
+  <testcase name="testHideTooltip()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.004"/>
+  <testcase name="testEnchantmentGlintOverride()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.002"/>
+  <testcase name="testPot()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.014"/>
+  <testcase name="testLegacyCustomModelData()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.02"/>
+  <testcase name="testMapId()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.002"/>
+  <testcase name="testDyedColor()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testFood()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testTool()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.005"/>
+  <testcase name="testTrim()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testJukeboxWithEitherKey()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testMaxDamage()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testJukeboxPlayable()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testChargedProjectiles()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.002"/>
+  <testcase name="testFireworks()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.004"/>
+  <testcase name="testRecipes()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testMapColor()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testItemRarity()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testDamage()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testItemEnchantments()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testMaxStackSize()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testRepairCost()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testItemAttributes()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.007"/>
+  <testcase name="testUnbreakable()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testItemLore()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.002"/>
+  <testcase name="testItemName()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <testcase name="testCustomName()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.001"/>
+  <testcase name="testJukeboxWithEitherHolder()" classname="io.papermc.paper.item.ItemStackDataComponentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

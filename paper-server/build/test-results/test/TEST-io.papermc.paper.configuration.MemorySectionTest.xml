@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.configuration.MemorySectionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:40.805Z" hostname="codespaces-8b369d" time="0.006">
+  <properties/>
+  <testcase name="testIsItemStack()" classname="io.papermc.paper.configuration.MemorySectionTest" time="0.003"/>
+  <testcase name="testGetItemStack_String()" classname="io.papermc.paper.configuration.MemorySectionTest" time="0.001"/>
+  <testcase name="testGetItemStack_String_ItemStack()" classname="io.papermc.paper.configuration.MemorySectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.ColorTest" tests="66" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:57.535Z" hostname="codespaces-8b369d" time="0.513">
+  <properties/>
+  <testcase name="testInvalidBGR1()" classname="org.bukkit.ColorTest" time="0.012"/>
+  <testcase name="testInvalidBGR2()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidBGR3()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidBGR4()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidRGB1()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidRGB2()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidRGB3()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidRGB4()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testSerialization()" classname="org.bukkit.ColorTest" time="0.246"/>
+  <testcase name="testBGR()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testRGB()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testRed()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testAlpha()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testGreen()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testARGB()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testBlue()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testEqualities()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidA01()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidA02()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidA03()" classname="org.bukkit.ColorTest" time="0.011"/>
+  <testcase name="testInvalidA04()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidA05()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidA06()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidA07()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidA08()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidA09()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidA10()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testInvalidA11()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testInvalidA12()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidB01()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidB02()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidB03()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidB04()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidB05()" classname="org.bukkit.ColorTest" time="0.002"/>
+  <testcase name="testInvalidB06()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidB07()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testInvalidB08()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidB09()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidB10()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidB11()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidB12()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidG01()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidG02()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidG03()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testInvalidG04()" classname="org.bukkit.ColorTest" time="0.0"/>
+  <testcase name="testInvalidG05()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidG06()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidG07()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidG08()" classname="org.bukkit.ColorTest" time="0.006"/>
+  <testcase name="testInvalidG09()" classname="org.bukkit.ColorTest" time="0.005"/>
+  <testcase name="testInvalidG10()" classname="org.bukkit.ColorTest" time="0.005"/>
+  <testcase name="testInvalidG11()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidG12()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidR01()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidR02()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidR03()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidR04()" classname="org.bukkit.ColorTest" time="0.005"/>
+  <testcase name="testInvalidR05()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidR06()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInvalidR07()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <testcase name="testInvalidR08()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidR09()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidR10()" classname="org.bukkit.ColorTest" time="0.008"/>
+  <testcase name="testInvalidR11()" classname="org.bukkit.ColorTest" time="0.001"/>
+  <testcase name="testInvalidR12()" classname="org.bukkit.ColorTest" time="0.003"/>
+  <testcase name="testInequalities()" classname="org.bukkit.ColorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

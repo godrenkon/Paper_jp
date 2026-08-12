@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.item.ItemStackDataComponentEqualsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:03.287Z" hostname="codespaces-8b369d" time="0.004">
+  <properties/>
+  <testcase name="testEqualIgnoreComponent()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.0"/>
+  <testcase name="testEqualIgnoreComponentAndSize()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.001"/>
+  <testcase name="testAdvancedExample()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.001"/>
+  <testcase name="testEqualIncludeComponentIgnoreSize()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.0"/>
+  <testcase name="testEqual()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.001"/>
+  <testcase name="testEqualWithoutComponent()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.0"/>
+  <testcase name="testEqualRemoveComponent()" classname="io.papermc.paper.item.ItemStackDataComponentEqualsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

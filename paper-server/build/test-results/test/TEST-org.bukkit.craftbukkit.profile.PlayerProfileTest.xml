@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.profile.PlayerProfileTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:34.728Z" hostname="codespaces-8b369d" time="0.945">
+  <properties/>
+  <testcase name="testTexturesLoading()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.197"/>
+  <testcase name="testSignatureInvalidation()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.004"/>
+  <testcase name="testSerializationFullProfile()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.092"/>
+  <testcase name="testClone()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <testcase name="testBuildGameProfile()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.021"/>
+  <testcase name="testSignatureValidation()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.002"/>
+  <testcase name="testClearTextures()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <testcase name="testProvidedValues()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.003"/>
+  <testcase name="testSetTextures()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <testcase name="testTexturesEquals()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <testcase name="testEquals()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.0"/>
+  <testcase name="testProfileCreation()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <testcase name="testSetSkinResetsSkinModel()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.0"/>
+  <testcase name="testBuildGameProfileReturnsNewInstance()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.0"/>
+  <testcase name="testCustomSkin()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.0"/>
+  <testcase name="testGameProfileWrapping()" classname="org.bukkit.craftbukkit.profile.PlayerProfileTest" time="0.001"/>
+  <system-out><![CDATA[[21:04:34 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

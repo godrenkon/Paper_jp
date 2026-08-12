@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.plugin.PluginManagerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:41.738Z" hostname="codespaces-8b369d" time="0.022">
+  <properties/>
+  <testcase name="testRemovePermissionByNameCamel()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.01"/>
+  <testcase name="testRemovePermissionByNameLower()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.001"/>
+  <testcase name="testRemovePermissionByNameUpper()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.001"/>
+  <testcase name="testRemovePermissionByPermissionCamel()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.0"/>
+  <testcase name="testRemovePermissionByPermissionLower()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.002"/>
+  <testcase name="testRemovePermissionByPermissionUpper()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.002"/>
+  <testcase name="testSyncSameThread()" classname="io.papermc.paper.plugin.PluginManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

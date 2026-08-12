@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.materials.MaterialDataTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:05.060Z" hostname="codespaces-8b369d" time="0.017">
+  <properties/>
+  <testcase name="testComparator()" classname="org.bukkit.materials.MaterialDataTest" time="0.002"/>
+  <testcase name="testCrops()" classname="org.bukkit.materials.MaterialDataTest" time="0.002"/>
+  <testcase name="testDiode()" classname="org.bukkit.materials.MaterialDataTest" time="0.0"/>
+  <testcase name="testDoor()" classname="org.bukkit.materials.MaterialDataTest" time="0.001"/>
+  <testcase name="testTree()" classname="org.bukkit.materials.MaterialDataTest" time="0.001"/>
+  <testcase name="testWood()" classname="org.bukkit.materials.MaterialDataTest" time="0.0"/>
+  <testcase name="testWoodenStep()" classname="org.bukkit.materials.MaterialDataTest" time="0.001"/>
+  <testcase name="testHopper()" classname="org.bukkit.materials.MaterialDataTest" time="0.0"/>
+  <testcase name="testSapling()" classname="org.bukkit.materials.MaterialDataTest" time="0.002"/>
+  <testcase name="testLeaves()" classname="org.bukkit.materials.MaterialDataTest" time="0.001"/>
+  <testcase name="testMushroom()" classname="org.bukkit.materials.MaterialDataTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

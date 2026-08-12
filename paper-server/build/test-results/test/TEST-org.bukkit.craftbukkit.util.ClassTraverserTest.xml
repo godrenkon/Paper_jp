@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.util.ClassTraverserTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:35.771Z" hostname="codespaces-8b369d" time="0.015">
+  <properties/>
+  <testcase name="[1] clazz = class org.bukkit.craftbukkit.util.ClassTraverserTest$FirstTest, expected = [class org.bukkit.craftbukkit.util.ClassTraverserTest$FirstTest, class java.lang.Object]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.003"/>
+  <testcase name="[2] clazz = class org.bukkit.craftbukkit.util.ClassTraverserTest$SecondTest, expected = [class org.bukkit.craftbukkit.util.ClassTraverserTest$SecondTest, class org.bukkit.craftbukkit.util.ClassTraverserTest$SecondTestClass, interface org.bukkit.craftbukkit.util.ClassTraverserTest$SecondTestInterface, interface org.bukkit.craftbukkit.util.ClassTraverserTest$SecondTestInterface2, class java.lang.Object]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.001"/>
+  <testcase name="[3] clazz = interface org.bukkit.craftbukkit.util.ClassTraverserTest$ThirdTestInterface, expected = [interface org.bukkit.craftbukkit.util.ClassTraverserTest$ThirdTestInterface, interface org.bukkit.craftbukkit.util.ClassTraverserTest$ThirdTestInterface2]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.003"/>
+  <testcase name="[4] clazz = class org.bukkit.craftbukkit.util.ClassTraverserTest$FourthTest, expected = [class org.bukkit.craftbukkit.util.ClassTraverserTest$FourthTest, interface org.bukkit.craftbukkit.util.ClassTraverserTest$FourthTestInterface, class java.lang.Record, class java.lang.Object]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.0"/>
+  <testcase name="[5] clazz = class org.bukkit.craftbukkit.util.ClassTraverserTest$FifthTest, expected = [class org.bukkit.craftbukkit.util.ClassTraverserTest$FifthTest, class java.lang.Enum, interface java.lang.constant.Constable, interface java.lang.Comparable, interface java.io.Serializable, class java.lang.Object]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.0"/>
+  <testcase name="[6] clazz = interface org.bukkit.craftbukkit.util.ClassTraverserTest$SixthTest, expected = [interface org.bukkit.craftbukkit.util.ClassTraverserTest$SixthTest, interface java.lang.annotation.Annotation]" classname="org.bukkit.craftbukkit.util.ClassTraverserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

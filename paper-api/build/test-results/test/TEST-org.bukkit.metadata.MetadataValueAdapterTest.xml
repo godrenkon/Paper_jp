@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.metadata.MetadataValueAdapterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:05.117Z" hostname="codespaces-8b369d" time="0.009">
+  <properties/>
+  <testcase name="testStringConversionNull()" classname="org.bukkit.metadata.MetadataValueAdapterTest" time="0.001"/>
+  <testcase name="testAdapterBasics()" classname="org.bukkit.metadata.MetadataValueAdapterTest" time="0.001"/>
+  <testcase name="testBooleanConversion()" classname="org.bukkit.metadata.MetadataValueAdapterTest" time="0.002"/>
+  <testcase name="testAdapterConversions()" classname="org.bukkit.metadata.MetadataValueAdapterTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

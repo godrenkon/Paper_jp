@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.plugin.messaging.StandardMessengerTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:05.126Z" hostname="codespaces-8b369d" time="0.037">
+  <properties/>
+  <testcase name="testReservedOutgoingRegistration()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.003"/>
+  <testcase name="testGetIncomingChannelRegistrations_Plugin()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.004"/>
+  <testcase name="testUnregisterIncomingPluginChannel_Plugin_String()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.003"/>
+  <testcase name="testUnregisterIncomingPluginChannel_Plugin()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testGetIncomingChannelRegistrations_String()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testRegisterIncomingPluginChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testUnregisterOutgoingPluginChannel_Plugin()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testInvalidChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.0"/>
+  <testcase name="testGetOutgoingChannels()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.0"/>
+  <testcase name="testGetOutgoingChannels_Plugin()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testDuplicateIncomingRegistration()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.002"/>
+  <testcase name="testGetIncomingChannelRegistrations_Plugin_String()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.0"/>
+  <testcase name="testReservedIncomingRegistration()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.004"/>
+  <testcase name="testGetIncomingChannels_Plugin()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testValidateAndCorrectChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.002"/>
+  <testcase name="testRegisterAndUnregisterOutgoingPluginChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.0"/>
+  <testcase name="testUnregisterOutgoingPluginChannel_SharedChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.001"/>
+  <testcase name="testGetIncomingChannels()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.0"/>
+  <testcase name="testIsReservedChannel()" classname="org.bukkit.plugin.messaging.StandardMessengerTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

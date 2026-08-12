@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.destroystokyo.paper.PaperSkinPartsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:41.770Z" hostname="codespaces-8b369d" time="0.018">
+  <properties/>
+  <testcase name="testNoSleeves()" classname="com.destroystokyo.paper.PaperSkinPartsTest" time="0.012"/>
+  <testcase name="testDefault()" classname="com.destroystokyo.paper.PaperSkinPartsTest" time="0.001"/>
+  <testcase name="testAllOff()" classname="com.destroystokyo.paper.PaperSkinPartsTest" time="0.0"/>
+  <testcase name="testIndividualOff()" classname="com.destroystokyo.paper.PaperSkinPartsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

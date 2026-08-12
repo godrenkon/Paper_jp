@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.util.ItemStackRepairCheckTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:05:04.240Z" hostname="codespaces-8b369d" time="0.001">
+  <properties/>
+  <testcase name="testCanRepair()" classname="io.papermc.paper.util.ItemStackRepairCheckTest" time="0.0"/>
+  <testcase name="testCanNotRepair()" classname="io.papermc.paper.util.ItemStackRepairCheckTest" time="0.001"/>
+  <testcase name="testIsNotRepairableBy()" classname="io.papermc.paper.util.ItemStackRepairCheckTest" time="0.0"/>
+  <testcase name="testIsRepariableBy()" classname="io.papermc.paper.util.ItemStackRepairCheckTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

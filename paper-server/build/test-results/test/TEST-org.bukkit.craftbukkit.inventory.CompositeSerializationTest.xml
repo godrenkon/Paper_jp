@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.CompositeSerializationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:55.407Z" hostname="codespaces-8b369d" time="0.145">
+  <properties/>
+  <testcase name="testSaveRestoreCompositeList()" classname="org.bukkit.craftbukkit.inventory.CompositeSerializationTest" time="0.145"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.util.TickTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:56.073Z" hostname="codespaces-8b369d" time="0.114">
+  <properties/>
+  <testcase name="testTickFromDuration()" classname="io.papermc.paper.util.TickTest" time="0.006"/>
+  <testcase name="testTicksBetweenInstants()" classname="io.papermc.paper.util.TickTest" time="0.008"/>
+  <testcase name="testTickLength()" classname="io.papermc.paper.util.TickTest" time="0.089"/>
+  <testcase name="testAddTickToInstant()" classname="io.papermc.paper.util.TickTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

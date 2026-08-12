@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.ItemTypeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:03:47.642Z" hostname="codespaces-8b369d" time="0.085">
+  <properties/>
+  <testcase name="testItemMetaClasses()" classname="org.bukkit.craftbukkit.inventory.ItemTypeTest" time="0.071"/>
+  <testcase name="testStaticItemTypeUsage()" classname="org.bukkit.craftbukkit.inventory.ItemTypeTest" time="0.0"/>
+  <testcase name="testStaticItemTypeUsageBuilder()" classname="org.bukkit.craftbukkit.inventory.ItemTypeTest" time="0.009"/>
+  <testcase name="testRetyping()" classname="org.bukkit.craftbukkit.inventory.ItemTypeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

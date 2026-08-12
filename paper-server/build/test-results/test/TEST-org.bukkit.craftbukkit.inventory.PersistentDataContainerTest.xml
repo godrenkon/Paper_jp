@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:00.581Z" hostname="codespaces-8b369d" time="0.165">
+  <properties/>
+  <testcase name="encapsulatedContainers()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.005"/>
+  <testcase name="testYAMLStoring()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.105"/>
+  <testcase name="storeUUIDOnItemTest()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testPrimitiveCustomTags()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.003"/>
+  <testcase name="testItemMetaClone()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testStringEdgeCases()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.007"/>
+  <testcase name="testNBTTagStoring()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.002"/>
+  <testcase name="testHasNoAdapter()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testDifferentNamespace()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="testCopyToReplace()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.002"/>
+  <testcase name="testHasNoType()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testListOfListViaContainerArray()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testGetNoAdapter()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testGetWrongType()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testCorrectType()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.007"/>
+  <testcase name="testEmptyListApplicationToAnyType()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testCopyTo()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="testMapStoring()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.012"/>
+  <testcase name="testSetNoAdapter()" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[1] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@1b293404, list = [1, 2, 3], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[2] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@317e08f9, list = [1, 2, 3], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[3] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@3ff0751f, list = [1, 2, 3], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="[4] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@3851b3df, list = [1, 2, 3], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[5] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@8891e30, list = [1.0, 2.0, 3.0], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[6] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@ec7c6dc, list = [1.0, 2.0, 3.0], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="[7] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@14219aa3, list = [true, true, false], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[8] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@75a5fe63, list = [a, b, c], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="[9] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@72fbb0bc, list = [[B@16724acf, [B@4cfee884], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5c68@18630be7" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="[10] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@2e8b51f8, list = [[I@c8b20e3, [I@1e9be192], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d8000@6ca146d9" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.001"/>
+  <testcase name="[11] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@4d8869e5, list = [[J@c5e96b7, [J@6aaf9e6b], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d8238@7c195de4" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <testcase name="[12] type = org.bukkit.persistence.ListPersistentDataTypeProvider$ListPersistentDataTypeImpl@ac30f10, list = [org.bukkit.craftbukkit.persistence.CraftPersistentDataContainer@3b475a74, org.bukkit.craftbukkit.persistence.CraftPersistentDataContainer@51a8b8ba], equalsCheck = org.bukkit.craftbukkit.inventory.PersistentDataContainerTest$$Lambda/0x00000000563d5a30@59f0388f" classname="org.bukkit.craftbukkit.inventory.PersistentDataContainerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

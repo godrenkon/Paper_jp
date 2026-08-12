@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.CropStateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:58.049Z" hostname="codespaces-8b369d" time="0.005">
+  <properties/>
+  <testcase name="getByData()" classname="org.bukkit.CropStateTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

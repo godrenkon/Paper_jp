@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.util.ApiVersionTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:55.378Z" hostname="codespaces-8b369d" time="0.029">
+  <properties/>
+  <testcase name="[1] first = &quot;1.12&quot;, second = &quot;1.12&quot;, older = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.002"/>
+  <testcase name="[2] first = &quot;1.12&quot;, second = &quot;1.12.2&quot;, older = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[3] first = &quot;1.12.2&quot;, second = &quot;1.12&quot;, older = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[1] parse = null, expected = &quot;none&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[2] parse = &quot;&quot;, expected = &quot;none&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[3] parse = &quot;none&quot;, expected = &quot;none&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[4] parse = &quot;1.12&quot;, expected = &quot;1.12.0&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[5] parse = &quot;1.13.3&quot;, expected = &quot;1.13.3&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[6] parse = &quot;1.+20.3&quot;, expected = &quot;1.20.3&quot;" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="testSameInstance()" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[1] first = &quot;none&quot;, second = &quot;none&quot;, compareResult = SAME" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[2] first = &quot;none&quot;, second = &quot;1.20&quot;, compareResult = SMALLER" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[3] first = &quot;2.20.3&quot;, second = &quot;1.30.4&quot;, compareResult = BIGGER" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[4] first = &quot;1.13&quot;, second = &quot;1.12&quot;, compareResult = BIGGER" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[5] first = &quot;1.13.2&quot;, second = &quot;1.13.3&quot;, compareResult = SMALLER" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="testCurrentVersionUpdated()" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[1] first = &quot;1.12&quot;, second = &quot;1.12&quot;, newer = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.002"/>
+  <testcase name="[2] first = &quot;1.12&quot;, second = &quot;1.12.2&quot;, newer = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[3] first = &quot;1.12.2&quot;, second = &quot;1.12&quot;, newer = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[1] first = &quot;1.12&quot;, second = &quot;1.12&quot;, newerOrSame = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.002"/>
+  <testcase name="[2] first = &quot;1.12&quot;, second = &quot;1.12.2&quot;, newerOrSame = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[3] first = &quot;1.12.2&quot;, second = &quot;1.12&quot;, newerOrSame = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[1] first = &quot;1.12&quot;, second = &quot;1.12&quot;, olderOrSame = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.001"/>
+  <testcase name="[2] first = &quot;1.12&quot;, second = &quot;1.12.2&quot;, olderOrSame = true" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <testcase name="[3] first = &quot;1.12.2&quot;, second = &quot;1.12&quot;, olderOrSame = false" classname="org.bukkit.craftbukkit.util.ApiVersionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

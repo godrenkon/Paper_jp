@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.entity.EntityTypesTest" tests="366" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:00.896Z" hostname="codespaces-8b369d" time="0.487">
+  <properties/>
+  <testcase name="[1] clazz = interface org.bukkit.entity.AbstractArrow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.333"/>
+  <testcase name="[2] clazz = interface org.bukkit.entity.AbstractCow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[3] clazz = interface org.bukkit.entity.AbstractCubeMob" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[4] clazz = interface org.bukkit.entity.AbstractHorse" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[5] clazz = interface org.bukkit.entity.AbstractNautilus" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[6] clazz = interface org.bukkit.entity.AbstractSkeleton" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[7] clazz = interface org.bukkit.entity.AbstractVillager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[8] clazz = interface org.bukkit.entity.AbstractWindCharge" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[9] clazz = interface org.bukkit.entity.Ageable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[10] clazz = interface org.bukkit.entity.Ambient" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[11] clazz = interface org.bukkit.entity.Animals" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[12] clazz = interface org.bukkit.entity.Boat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[13] clazz = interface org.bukkit.entity.Boss" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[14] clazz = interface org.bukkit.entity.Breedable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[15] clazz = interface org.bukkit.entity.ChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[16] clazz = interface org.bukkit.entity.ChestedHorse" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[17] clazz = interface org.bukkit.entity.ComplexEntityPart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[18] clazz = interface org.bukkit.entity.ComplexLivingEntity" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[19] clazz = interface org.bukkit.entity.Creature" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[20] clazz = interface org.bukkit.entity.Damageable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[21] clazz = interface org.bukkit.entity.Display" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[22] clazz = interface org.bukkit.entity.EnderDragonPart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[23] clazz = interface org.bukkit.entity.Enemy" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[24] clazz = interface org.bukkit.entity.Entity" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[25] clazz = interface org.bukkit.entity.Explosive" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[26] clazz = interface org.bukkit.entity.Fireball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[27] clazz = interface org.bukkit.entity.Fish" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[28] clazz = interface org.bukkit.entity.Flying" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[29] clazz = interface org.bukkit.entity.Golem" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[30] clazz = interface org.bukkit.entity.Hanging" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[31] clazz = interface org.bukkit.entity.HumanEntity" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[32] clazz = interface org.bukkit.entity.Illager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[33] clazz = interface org.bukkit.entity.LivingEntity" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[34] clazz = interface org.bukkit.entity.Minecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[35] clazz = interface org.bukkit.entity.Mob" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[36] clazz = interface org.bukkit.entity.Monster" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[37] clazz = interface org.bukkit.entity.NPC" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[38] clazz = interface org.bukkit.entity.PiglinAbstract" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[39] clazz = interface org.bukkit.entity.Projectile" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[40] clazz = interface org.bukkit.entity.Raider" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[41] clazz = interface org.bukkit.entity.Sittable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[42] clazz = interface org.bukkit.entity.SizedFireball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[43] clazz = interface org.bukkit.entity.Spellcaster" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[44] clazz = interface org.bukkit.entity.Steerable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[45] clazz = interface org.bukkit.entity.Tameable" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[46] clazz = interface org.bukkit.entity.ThrowableProjectile" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[47] clazz = interface org.bukkit.entity.ThrownPotion" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[48] clazz = interface org.bukkit.entity.TippedArrow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[49] clazz = interface org.bukkit.entity.Vehicle" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[50] clazz = interface org.bukkit.entity.WaterMob" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[1] clazz = interface org.bukkit.entity.Allay" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[2] clazz = interface org.bukkit.entity.AreaEffectCloud" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[3] clazz = interface org.bukkit.entity.Armadillo" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[4] clazz = interface org.bukkit.entity.ArmorStand" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[5] clazz = interface org.bukkit.entity.Arrow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[6] clazz = interface org.bukkit.entity.Axolotl" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[7] clazz = interface org.bukkit.entity.Bat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[8] clazz = interface org.bukkit.entity.Bee" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[9] clazz = interface org.bukkit.entity.Blaze" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[10] clazz = interface org.bukkit.entity.BlockDisplay" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[11] clazz = interface org.bukkit.entity.Bogged" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[12] clazz = interface org.bukkit.entity.Breeze" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[13] clazz = interface org.bukkit.entity.BreezeWindCharge" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[14] clazz = interface org.bukkit.entity.Camel" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[15] clazz = interface org.bukkit.entity.CamelHusk" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[16] clazz = interface org.bukkit.entity.Cat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[17] clazz = interface org.bukkit.entity.CaveSpider" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[18] clazz = interface org.bukkit.entity.Chicken" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[19] clazz = interface org.bukkit.entity.Cod" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[20] clazz = interface org.bukkit.entity.CopperGolem" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[21] clazz = interface org.bukkit.entity.Cow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[22] clazz = interface org.bukkit.entity.Creaking" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[23] clazz = interface org.bukkit.entity.Creeper" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[24] clazz = interface org.bukkit.entity.Dolphin" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[25] clazz = interface org.bukkit.entity.Donkey" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[26] clazz = interface org.bukkit.entity.DragonFireball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[27] clazz = interface org.bukkit.entity.Drowned" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[28] clazz = interface org.bukkit.entity.Egg" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[29] clazz = interface org.bukkit.entity.ElderGuardian" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[30] clazz = interface org.bukkit.entity.EnderCrystal" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[31] clazz = interface org.bukkit.entity.EnderDragon" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[32] clazz = interface org.bukkit.entity.EnderPearl" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[33] clazz = interface org.bukkit.entity.EnderSignal" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[34] clazz = interface org.bukkit.entity.Enderman" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[35] clazz = interface org.bukkit.entity.Endermite" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[36] clazz = interface org.bukkit.entity.Evoker" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[37] clazz = interface org.bukkit.entity.EvokerFangs" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[38] clazz = interface org.bukkit.entity.ExperienceOrb" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[39] clazz = interface org.bukkit.entity.FallingBlock" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[40] clazz = interface org.bukkit.entity.Firework" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[41] clazz = interface org.bukkit.entity.FishHook" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[42] clazz = interface org.bukkit.entity.Fox" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[43] clazz = interface org.bukkit.entity.Frog" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[44] clazz = interface org.bukkit.entity.Ghast" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[45] clazz = interface org.bukkit.entity.Giant" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[46] clazz = interface org.bukkit.entity.GlowItemFrame" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[47] clazz = interface org.bukkit.entity.GlowSquid" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[48] clazz = interface org.bukkit.entity.Goat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[49] clazz = interface org.bukkit.entity.Guardian" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[50] clazz = interface org.bukkit.entity.HappyGhast" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[51] clazz = interface org.bukkit.entity.Hoglin" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[52] clazz = interface org.bukkit.entity.Horse" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[53] clazz = interface org.bukkit.entity.Husk" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[54] clazz = interface org.bukkit.entity.Illusioner" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[55] clazz = interface org.bukkit.entity.Interaction" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[56] clazz = interface org.bukkit.entity.IronGolem" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[57] clazz = interface org.bukkit.entity.Item" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[58] clazz = interface org.bukkit.entity.ItemDisplay" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[59] clazz = interface org.bukkit.entity.ItemFrame" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[60] clazz = interface org.bukkit.entity.LargeFireball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[61] clazz = interface org.bukkit.entity.LeashHitch" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[62] clazz = interface org.bukkit.entity.LightningStrike" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[63] clazz = interface org.bukkit.entity.LingeringPotion" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[64] clazz = interface org.bukkit.entity.Llama" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[65] clazz = interface org.bukkit.entity.LlamaSpit" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[66] clazz = interface org.bukkit.entity.MagmaCube" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[67] clazz = interface org.bukkit.entity.Mannequin" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[68] clazz = interface org.bukkit.entity.Marker" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[69] clazz = interface org.bukkit.entity.Mule" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[70] clazz = interface org.bukkit.entity.MushroomCow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[71] clazz = interface org.bukkit.entity.Nautilus" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[72] clazz = interface org.bukkit.entity.Ocelot" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[73] clazz = interface org.bukkit.entity.OminousItemSpawner" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[74] clazz = interface org.bukkit.entity.Painting" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[75] clazz = interface org.bukkit.entity.Panda" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[76] clazz = interface org.bukkit.entity.Parched" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[77] clazz = interface org.bukkit.entity.Parrot" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[78] clazz = interface org.bukkit.entity.Phantom" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[79] clazz = interface org.bukkit.entity.Pig" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[80] clazz = interface org.bukkit.entity.PigZombie" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[81] clazz = interface org.bukkit.entity.Piglin" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[82] clazz = interface org.bukkit.entity.PiglinBrute" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[83] clazz = interface org.bukkit.entity.Pillager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[84] clazz = interface org.bukkit.entity.Player" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[85] clazz = interface org.bukkit.entity.PolarBear" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[86] clazz = interface org.bukkit.entity.PufferFish" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[87] clazz = interface org.bukkit.entity.Rabbit" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[88] clazz = interface org.bukkit.entity.Ravager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[89] clazz = interface org.bukkit.entity.Salmon" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[90] clazz = interface org.bukkit.entity.Sheep" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[91] clazz = interface org.bukkit.entity.Shulker" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[92] clazz = interface org.bukkit.entity.ShulkerBullet" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[93] clazz = interface org.bukkit.entity.Silverfish" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[94] clazz = interface org.bukkit.entity.Skeleton" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[95] clazz = interface org.bukkit.entity.SkeletonHorse" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[96] clazz = interface org.bukkit.entity.Slime" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[97] clazz = interface org.bukkit.entity.SmallFireball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[98] clazz = interface org.bukkit.entity.Sniffer" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[99] clazz = interface org.bukkit.entity.Snowball" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[100] clazz = interface org.bukkit.entity.Snowman" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[101] clazz = interface org.bukkit.entity.SpectralArrow" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[102] clazz = interface org.bukkit.entity.Spider" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[103] clazz = interface org.bukkit.entity.SplashPotion" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[104] clazz = interface org.bukkit.entity.Squid" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[105] clazz = interface org.bukkit.entity.Stray" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[106] clazz = interface org.bukkit.entity.Strider" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[107] clazz = interface org.bukkit.entity.SulfurCube" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[108] clazz = interface org.bukkit.entity.TNTPrimed" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[109] clazz = interface org.bukkit.entity.Tadpole" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[110] clazz = interface org.bukkit.entity.TextDisplay" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[111] clazz = interface org.bukkit.entity.ThrownExpBottle" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[112] clazz = interface org.bukkit.entity.TraderLlama" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[113] clazz = interface org.bukkit.entity.Trident" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[114] clazz = interface org.bukkit.entity.TropicalFish" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[115] clazz = interface org.bukkit.entity.Turtle" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[116] clazz = interface org.bukkit.entity.Vex" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[117] clazz = interface org.bukkit.entity.Villager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[118] clazz = interface org.bukkit.entity.Vindicator" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[119] clazz = interface org.bukkit.entity.WanderingTrader" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[120] clazz = interface org.bukkit.entity.Warden" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[121] clazz = interface org.bukkit.entity.WindCharge" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[122] clazz = interface org.bukkit.entity.Witch" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[123] clazz = interface org.bukkit.entity.Wither" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[124] clazz = interface org.bukkit.entity.WitherSkeleton" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[125] clazz = interface org.bukkit.entity.WitherSkull" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[126] clazz = interface org.bukkit.entity.Wolf" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[127] clazz = interface org.bukkit.entity.Zoglin" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[128] clazz = interface org.bukkit.entity.Zombie" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[129] clazz = interface org.bukkit.entity.ZombieHorse" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[130] clazz = interface org.bukkit.entity.ZombieNautilus" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[131] clazz = interface org.bukkit.entity.ZombieVillager" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[132] clazz = interface org.bukkit.entity.boat.AcaciaBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[133] clazz = interface org.bukkit.entity.boat.AcaciaChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[134] clazz = interface org.bukkit.entity.boat.BambooChestRaft" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[135] clazz = interface org.bukkit.entity.boat.BambooRaft" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[136] clazz = interface org.bukkit.entity.boat.BirchBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[137] clazz = interface org.bukkit.entity.boat.BirchChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[138] clazz = interface org.bukkit.entity.boat.CherryBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[139] clazz = interface org.bukkit.entity.boat.CherryChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[140] clazz = interface org.bukkit.entity.boat.DarkOakBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[141] clazz = interface org.bukkit.entity.boat.DarkOakChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[142] clazz = interface org.bukkit.entity.boat.JungleBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[143] clazz = interface org.bukkit.entity.boat.JungleChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[144] clazz = interface org.bukkit.entity.boat.MangroveBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[145] clazz = interface org.bukkit.entity.boat.MangroveChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[146] clazz = interface org.bukkit.entity.boat.OakBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[147] clazz = interface org.bukkit.entity.boat.OakChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[148] clazz = interface org.bukkit.entity.boat.PaleOakBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[149] clazz = interface org.bukkit.entity.boat.PaleOakChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[150] clazz = interface org.bukkit.entity.boat.SpruceBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[151] clazz = interface org.bukkit.entity.boat.SpruceChestBoat" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[152] clazz = interface org.bukkit.entity.minecart.CommandMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[153] clazz = interface org.bukkit.entity.minecart.ExplosiveMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[154] clazz = interface org.bukkit.entity.minecart.HopperMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[155] clazz = interface org.bukkit.entity.minecart.PoweredMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[156] clazz = interface org.bukkit.entity.minecart.RideableMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[157] clazz = interface org.bukkit.entity.minecart.SpawnerMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[158] clazz = interface org.bukkit.entity.minecart.StorageMinecart" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[1] entityType = ACACIA_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[2] entityType = ACACIA_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[3] entityType = ALLAY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[4] entityType = AREA_EFFECT_CLOUD" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[5] entityType = ARMADILLO" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[6] entityType = ARMOR_STAND" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[7] entityType = ARROW" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[8] entityType = AXOLOTL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[9] entityType = BAMBOO_CHEST_RAFT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[10] entityType = BAMBOO_RAFT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[11] entityType = BAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[12] entityType = BEE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[13] entityType = BIRCH_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[14] entityType = BIRCH_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[15] entityType = BLAZE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[16] entityType = BLOCK_DISPLAY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[17] entityType = BOGGED" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[18] entityType = BREEZE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[19] entityType = BREEZE_WIND_CHARGE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[20] entityType = CAMEL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[21] entityType = CAMEL_HUSK" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[22] entityType = CAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[23] entityType = CAVE_SPIDER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[24] entityType = CHERRY_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[25] entityType = CHERRY_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[26] entityType = CHEST_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[27] entityType = CHICKEN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[28] entityType = COD" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[29] entityType = COMMAND_BLOCK_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[30] entityType = COPPER_GOLEM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[31] entityType = COW" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[32] entityType = CREAKING" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[33] entityType = CREEPER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[34] entityType = DARK_OAK_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[35] entityType = DARK_OAK_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[36] entityType = DOLPHIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[37] entityType = DONKEY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[38] entityType = DRAGON_FIREBALL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[39] entityType = DROWNED" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[40] entityType = EGG" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[41] entityType = ELDER_GUARDIAN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[42] entityType = END_CRYSTAL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[43] entityType = ENDER_DRAGON" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[44] entityType = ENDER_PEARL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[45] entityType = ENDERMAN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[46] entityType = ENDERMITE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[47] entityType = EVOKER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[48] entityType = EVOKER_FANGS" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[49] entityType = EXPERIENCE_BOTTLE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[50] entityType = EXPERIENCE_ORB" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[51] entityType = EYE_OF_ENDER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[52] entityType = FALLING_BLOCK" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[53] entityType = FIREBALL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[54] entityType = FIREWORK_ROCKET" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[55] entityType = FISHING_BOBBER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[56] entityType = FOX" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[57] entityType = FROG" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[58] entityType = FURNACE_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[59] entityType = GHAST" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[60] entityType = GIANT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[61] entityType = GLOW_ITEM_FRAME" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[62] entityType = GLOW_SQUID" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[63] entityType = GOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[64] entityType = GUARDIAN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[65] entityType = HAPPY_GHAST" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[66] entityType = HOGLIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[67] entityType = HOPPER_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[68] entityType = HORSE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[69] entityType = HUSK" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[70] entityType = ILLUSIONER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[71] entityType = INTERACTION" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[72] entityType = IRON_GOLEM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[73] entityType = ITEM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[74] entityType = ITEM_DISPLAY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[75] entityType = ITEM_FRAME" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[76] entityType = JUNGLE_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[77] entityType = JUNGLE_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[78] entityType = LEASH_KNOT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[79] entityType = LIGHTNING_BOLT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[80] entityType = LINGERING_POTION" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[81] entityType = LLAMA" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[82] entityType = LLAMA_SPIT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[83] entityType = MAGMA_CUBE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[84] entityType = MANGROVE_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[85] entityType = MANGROVE_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[86] entityType = MANNEQUIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[87] entityType = MARKER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[88] entityType = MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[89] entityType = MOOSHROOM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[90] entityType = MULE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[91] entityType = NAUTILUS" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[92] entityType = OAK_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[93] entityType = OAK_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[94] entityType = OCELOT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[95] entityType = OMINOUS_ITEM_SPAWNER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[96] entityType = PAINTING" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[97] entityType = PALE_OAK_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[98] entityType = PALE_OAK_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[99] entityType = PANDA" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[100] entityType = PARCHED" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[101] entityType = PARROT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[102] entityType = PHANTOM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[103] entityType = PIG" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[104] entityType = PIGLIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[105] entityType = PIGLIN_BRUTE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[106] entityType = PILLAGER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[107] entityType = PLAYER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[108] entityType = POLAR_BEAR" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[109] entityType = PUFFERFISH" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[110] entityType = RABBIT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[111] entityType = RAVAGER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[112] entityType = SALMON" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[113] entityType = SHEEP" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[114] entityType = SHULKER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[115] entityType = SHULKER_BULLET" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[116] entityType = SILVERFISH" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[117] entityType = SKELETON" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[118] entityType = SKELETON_HORSE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[119] entityType = SLIME" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[120] entityType = SMALL_FIREBALL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[121] entityType = SNIFFER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.003"/>
+  <testcase name="[122] entityType = SNOW_GOLEM" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[123] entityType = SNOWBALL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[124] entityType = SPAWNER_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[125] entityType = SPECTRAL_ARROW" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[126] entityType = SPIDER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[127] entityType = SPLASH_POTION" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[128] entityType = SPRUCE_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[129] entityType = SPRUCE_CHEST_BOAT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[130] entityType = SQUID" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[131] entityType = STRAY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[132] entityType = STRIDER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[133] entityType = SULFUR_CUBE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[134] entityType = TADPOLE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[135] entityType = TEXT_DISPLAY" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[136] entityType = TNT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[137] entityType = TNT_MINECART" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[138] entityType = TRADER_LLAMA" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[139] entityType = TRIDENT" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[140] entityType = TROPICAL_FISH" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[141] entityType = TURTLE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[142] entityType = VEX" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[143] entityType = VILLAGER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[144] entityType = VINDICATOR" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[145] entityType = WANDERING_TRADER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[146] entityType = WARDEN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[147] entityType = WIND_CHARGE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[148] entityType = WITCH" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[149] entityType = WITHER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[150] entityType = WITHER_SKELETON" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[151] entityType = WITHER_SKULL" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[152] entityType = WOLF" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[153] entityType = ZOGLIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[154] entityType = ZOMBIE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[155] entityType = ZOMBIE_HORSE" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.001"/>
+  <testcase name="[156] entityType = ZOMBIE_NAUTILUS" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[157] entityType = ZOMBIE_VILLAGER" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <testcase name="[158] entityType = ZOMBIFIED_PIGLIN" classname="org.bukkit.craftbukkit.entity.EntityTypesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

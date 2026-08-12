@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.YamlSerializationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:01.385Z" hostname="codespaces-8b369d" time="0.208">
+  <properties/>
+  <testcase name="testDataComponents()" classname="org.bukkit.craftbukkit.inventory.YamlSerializationTest" time="0.071"/>
+  <testcase name="testUpgrading()" classname="org.bukkit.craftbukkit.inventory.YamlSerializationTest" time="0.128"/>
+  <testcase name="testItemMeta()" classname="org.bukkit.craftbukkit.inventory.YamlSerializationTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

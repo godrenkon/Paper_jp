@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.MaterialTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:02.821Z" hostname="codespaces-8b369d" time="0.335">
+  <properties/>
+  <testcase name="matchMaterialByName()" classname="org.bukkit.MaterialTest" time="0.086"/>
+  <testcase name="matchMaterialByNull()" classname="org.bukkit.MaterialTest" time="0.001"/>
+  <testcase name="matchMaterialByKey()" classname="org.bukkit.MaterialTest" time="0.063"/>
+  <testcase name="getByNameNull()" classname="org.bukkit.MaterialTest" time="0.005"/>
+  <testcase name="getData()" classname="org.bukkit.MaterialTest" time="0.032"/>
+  <testcase name="matchMaterialByWrongNamespace()" classname="org.bukkit.MaterialTest" time="0.075"/>
+  <testcase name="matchMaterialByLowerCaseAndSpaces()" classname="org.bukkit.MaterialTest" time="0.062"/>
+  <testcase name="getByName()" classname="org.bukkit.MaterialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

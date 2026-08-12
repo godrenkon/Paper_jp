@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.block.InstrumentSoundTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:05:04.706Z" hostname="codespaces-8b369d" time="0.015">
+  <properties/>
+  <testcase name="[1] bukkit = PIANO" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[2] bukkit = BASS_DRUM" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[3] bukkit = SNARE_DRUM" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[4] bukkit = STICKS" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[5] bukkit = BASS_GUITAR" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[6] bukkit = FLUTE" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[7] bukkit = BELL" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[8] bukkit = GUITAR" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[9] bukkit = CHIME" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[10] bukkit = XYLOPHONE" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[11] bukkit = IRON_XYLOPHONE" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[12] bukkit = COW_BELL" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[13] bukkit = DIDGERIDOO" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[14] bukkit = BIT" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[15] bukkit = BANJO" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[16] bukkit = PLING" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[17] bukkit = TRUMPET" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[18] bukkit = TRUMPET_EXPOSED" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[19] bukkit = TRUMPET_OXIDIZED" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[20] bukkit = TRUMPET_WEATHERED" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[21] bukkit = ZOMBIE" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <testcase name="[22] bukkit = SKELETON" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[23] bukkit = CREEPER" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[24] bukkit = DRAGON" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[25] bukkit = WITHER_SKELETON" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.0"/>
+  <testcase name="[26] bukkit = PIGLIN" classname="io.papermc.paper.block.InstrumentSoundTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

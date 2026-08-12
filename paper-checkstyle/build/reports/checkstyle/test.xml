@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="13.8.0">
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/checks/package-info.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/checks/TestJavadocAlignParameterDescriptionCheck.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/checks/TestNullabilityAnnotationsCheck.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/checks/TestUnnecessaryFullyQualifiedImportCheck.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/package-info.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/CheckTest.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-checkstyle/src/test/java/io/papermc/checkstyle/CheckTestBuilder.java">
+</file>
+</checkstyle>

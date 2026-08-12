@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Main-Class: org.bukkit.craftbukkit.Main
+Implementation-Title: Paper
+Implementation-Version: 26.2-DEV-0bb7849
+Implementation-Vendor: 2026-08-11 21:09:01 +0000
+Specification-Title: Paper
+Specification-Version: 26.2.local-SNAPSHOT
+Specification-Vendor: Paper Team
+Brand-Id: papermc:paper
+Brand-Name: Paper
+Build-Number: 
+Build-Time: 1970-01-01T00:00:00Z
+Git-Branch: main
+Git-Commit: 0bb7849
+
+Name: org/bukkit
+Sealed: true
+
+Name: net/bukkit
+Sealed: true
+
+Name: com/bukkit
+Sealed: true
+

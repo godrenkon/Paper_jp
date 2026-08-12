@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.craftbukkit.inventory.MetaHandledTagsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:03:47.155Z" hostname="codespaces-8b369d" time="0.486">
+  <properties/>
+  <testcase name="checkAllMetasHaveHandledTags()" classname="org.bukkit.craftbukkit.inventory.MetaHandledTagsTest" time="0.485"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.item.MetaComparisonTest" tests="11" skipped="1" failures="0" errors="0" timestamp="2026-08-11T21:05:04.689Z" hostname="codespaces-8b369d" time="0.017">
+  <properties/>
+  <testcase name="testPotionMeta()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.001"/>
+  <testcase name="testMetaApplicationDowngradingPotion()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.0"/>
+  <testcase name="testWriteableBookPages()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.005"/>
+  <testcase name="testBookMetaAuthor()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.001"/>
+  <testcase name="testNullMeta()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.0"/>
+  <testcase name="testEnchantment()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.001"/>
+  <testcase name="testBookMetaTitle()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.001"/>
+  <testcase name="testMetaApplicationDowngrading()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.001"/>
+  <testcase name="testMetaApplication()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.0"/>
+  <testcase name="testPlayerHead()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testWrittenBookPages()" classname="io.papermc.paper.item.MetaComparisonTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

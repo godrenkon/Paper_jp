@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.event.EntityRemoveEventTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2026-08-11T21:04:34.726Z" hostname="codespaces-8b369d" time="0.001">
+  <properties/>
+  <testcase name="testForMissing(ClassNode, String)" classname="org.bukkit.event.EntityRemoveEventTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.scoreboard.CriteriaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:40:05.163Z" hostname="codespaces-8b369d" time="1.66">
+  <properties/>
+  <testcase name="testStatistic()" classname="org.bukkit.scoreboard.CriteriaTest" time="1.374"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 11, 2026 2:40:05 PM org.bukkit.Bukkit setServer
+INFO: This server is running TestServer version  (Implementing API version BukkitVersion_null)
+]]></system-err>
+</testsuite>

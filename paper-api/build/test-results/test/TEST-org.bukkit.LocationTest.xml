@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.LocationTest" tests="90" skipped="0" failures="0" errors="0" timestamp="2026-08-11T14:39:58.938Z" hostname="codespaces-8b369d" time="3.88">
+  <properties/>
+  <testcase name="[1] name = &quot;X&quot;, x = 1, y = 0, z = 0, yaw = 270, pitch = 0" classname="org.bukkit.LocationTest" time="0.078"/>
+  <testcase name="[2] name = &quot;-X&quot;, x = -1, y = 0, z = 0, yaw = 90, pitch = 0" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[3] name = &quot;Z&quot;, x = 0, y = 0, z = 1, yaw = 0, pitch = 0" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[4] name = &quot;-Z&quot;, x = 0, y = 0, z = -1, yaw = 180, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[5] name = &quot;Y&quot;, x = 0, y = 1, z = 0, yaw = 0, pitch = -90" classname="org.bukkit.LocationTest" time="0.023"/>
+  <testcase name="[6] name = &quot;-Y&quot;, x = 0, y = -1, z = 0, yaw = 0, pitch = 90" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[7] name = &quot;X Z&quot;, x = 0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 315, pitch = 0" classname="org.bukkit.LocationTest" time="0.008"/>
+  <testcase name="[8] name = &quot;X -Z&quot;, x = 0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 225, pitch = 0" classname="org.bukkit.LocationTest" time="0.011"/>
+  <testcase name="[9] name = &quot;-X -Z&quot;, x = -0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 135, pitch = 0" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[10] name = &quot;-X Z&quot;, x = -0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 45, pitch = 0" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[11] name = &quot;X Y Z&quot;, x = 0.5, y = 0.7071067811865476, z = 0.5, yaw = 315, pitch = -45" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[12] name = &quot;-X -Y -Z&quot;, x = -0.5, y = -0.7071067811865476, z = -0.5, yaw = 135, pitch = 45" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[13] name = &quot;R0&quot;, x = -0.17053160269706213, y = 0.9505960468454158, z = -0.25939569812053453, yaw = 146.67833, pitch = -71.91482" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[14] name = &quot;R1&quot;, x = -0.238805263256266, y = 0.667746336785327, z = -0.7050438822873951, yaw = 161.28825, pitch = -41.893364" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[15] name = &quot;R2&quot;, x = 0.16015618775751364, y = 0.8769445234378191, z = -0.45312062227997996, yaw = 199.46603, pitch = -61.27595" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[16] name = &quot;R3&quot;, x = -0.11823018359173693, y = -0.9805283458544488, z = -0.15679855440597223, yaw = 142.98276, pitch = 78.67479" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[17] name = &quot;R4&quot;, x = -0.6604587233666672, y = -0.25397255079809694, z = 0.7066061266150897, yaw = 43.066628, pitch = 14.712712" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[18] name = &quot;R5&quot;, x = 0.5570584890965621, y = -0.7512233184876334, z = -0.354047123256048, yaw = 237.56137, pitch = 48.696457" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[19] name = &quot;R6&quot;, x = 0.5483984268137726, y = 0.2598124550119239, z = 0.7948312108170239, yaw = 325.39603, pitch = -15.058934" classname="org.bukkit.LocationTest" time="0.007"/>
+  <testcase name="[20] name = &quot;R7&quot;, x = 0.5244654619485718, y = -0.8505032110041401, z = 0.03975257595072801, yaw = 274.33453, pitch = 58.266445" classname="org.bukkit.LocationTest" time="0.006"/>
+  <testcase name="[21] name = &quot;R8&quot;, x = -0.7897971285724331, y = -0.6004452169338639, z = -0.1252439106702787, yaw = 99.01078, pitch = 36.90179" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[22] name = &quot;R9&quot;, x = 0.14455063041445768, y = 0.25013891123105203, z = -0.9573586790408946, yaw = 188.58618, pitch = -14.485732" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[23] name = &quot;R10&quot;, x = -0.004590384770875916, y = 0.8267233474315325, z = 0.5625899351919272, yaw = 0.46748763, pitch = -55.763603" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[24] name = &quot;R11&quot;, x = -0.43594574804359026, y = 0.8747229451120411, z = 0.21168626327003778, yaw = 64.09975, pitch = -61.012203" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[25] name = &quot;R12&quot;, x = -0.2826405546807261, y = 0.9219747053008023, z = 0.264720531193314, yaw = 46.875134, pitch = -67.2165" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[26] name = &quot;R13&quot;, x = -0.3413268646928756, y = -0.9138302000400097, z = -0.220023491777054, yaw = 122.80633, pitch = 66.040146" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[27] name = &quot;R14&quot;, x = 0.08122483345134723, y = -0.44073299681995676, z = -0.893955788585152, yaw = 185.19164, pitch = 26.150658" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[28] name = &quot;R15&quot;, x = 0.35427177236039503, y = -0.8679330346721092, z = 0.3481145768759011, yaw = 314.49774, pitch = 60.219326" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[29] name = &quot;R16&quot;, x = -0.11789051434788278, y = -0.9929627581712894, z = -0.011259996077128293, yaw = 95.4559, pitch = 83.19867" classname="org.bukkit.LocationTest" time="0.006"/>
+  <testcase name="[30] name = &quot;R17&quot;, x = -0.20407378777139115, y = -0.9264828823689669, z = -0.3162014513279915, yaw = 147.16214, pitch = 67.893036" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[1] name = &quot;X&quot;, x = 1, y = 0, z = 0, yaw = 270, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[2] name = &quot;-X&quot;, x = -1, y = 0, z = 0, yaw = 90, pitch = 0" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[3] name = &quot;Z&quot;, x = 0, y = 0, z = 1, yaw = 0, pitch = 0" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[4] name = &quot;-Z&quot;, x = 0, y = 0, z = -1, yaw = 180, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[5] name = &quot;Y&quot;, x = 0, y = 1, z = 0, yaw = 0, pitch = -90" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[6] name = &quot;-Y&quot;, x = 0, y = -1, z = 0, yaw = 0, pitch = 90" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[7] name = &quot;X Z&quot;, x = 0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 315, pitch = 0" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[8] name = &quot;X -Z&quot;, x = 0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 225, pitch = 0" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[9] name = &quot;-X -Z&quot;, x = -0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 135, pitch = 0" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[10] name = &quot;-X Z&quot;, x = -0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 45, pitch = 0" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[11] name = &quot;X Y Z&quot;, x = 0.5, y = 0.7071067811865476, z = 0.5, yaw = 315, pitch = -45" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[12] name = &quot;-X -Y -Z&quot;, x = -0.5, y = -0.7071067811865476, z = -0.5, yaw = 135, pitch = 45" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[13] name = &quot;R0&quot;, x = -0.17053160269706213, y = 0.9505960468454158, z = -0.25939569812053453, yaw = 146.67833, pitch = -71.91482" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[14] name = &quot;R1&quot;, x = -0.238805263256266, y = 0.667746336785327, z = -0.7050438822873951, yaw = 161.28825, pitch = -41.893364" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[15] name = &quot;R2&quot;, x = 0.16015618775751364, y = 0.8769445234378191, z = -0.45312062227997996, yaw = 199.46603, pitch = -61.27595" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[16] name = &quot;R3&quot;, x = -0.11823018359173693, y = -0.9805283458544488, z = -0.15679855440597223, yaw = 142.98276, pitch = 78.67479" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[17] name = &quot;R4&quot;, x = -0.6604587233666672, y = -0.25397255079809694, z = 0.7066061266150897, yaw = 43.066628, pitch = 14.712712" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[18] name = &quot;R5&quot;, x = 0.5570584890965621, y = -0.7512233184876334, z = -0.354047123256048, yaw = 237.56137, pitch = 48.696457" classname="org.bukkit.LocationTest" time="0.009"/>
+  <testcase name="[19] name = &quot;R6&quot;, x = 0.5483984268137726, y = 0.2598124550119239, z = 0.7948312108170239, yaw = 325.39603, pitch = -15.058934" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[20] name = &quot;R7&quot;, x = 0.5244654619485718, y = -0.8505032110041401, z = 0.03975257595072801, yaw = 274.33453, pitch = 58.266445" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[21] name = &quot;R8&quot;, x = -0.7897971285724331, y = -0.6004452169338639, z = -0.1252439106702787, yaw = 99.01078, pitch = 36.90179" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[22] name = &quot;R9&quot;, x = 0.14455063041445768, y = 0.25013891123105203, z = -0.9573586790408946, yaw = 188.58618, pitch = -14.485732" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[23] name = &quot;R10&quot;, x = -0.004590384770875916, y = 0.8267233474315325, z = 0.5625899351919272, yaw = 0.46748763, pitch = -55.763603" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[24] name = &quot;R11&quot;, x = -0.43594574804359026, y = 0.8747229451120411, z = 0.21168626327003778, yaw = 64.09975, pitch = -61.012203" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[25] name = &quot;R12&quot;, x = -0.2826405546807261, y = 0.9219747053008023, z = 0.264720531193314, yaw = 46.875134, pitch = -67.2165" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[26] name = &quot;R13&quot;, x = -0.3413268646928756, y = -0.9138302000400097, z = -0.220023491777054, yaw = 122.80633, pitch = 66.040146" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[27] name = &quot;R14&quot;, x = 0.08122483345134723, y = -0.44073299681995676, z = -0.893955788585152, yaw = 185.19164, pitch = 26.150658" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[28] name = &quot;R15&quot;, x = 0.35427177236039503, y = -0.8679330346721092, z = 0.3481145768759011, yaw = 314.49774, pitch = 60.219326" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[29] name = &quot;R16&quot;, x = -0.11789051434788278, y = -0.9929627581712894, z = -0.011259996077128293, yaw = 95.4559, pitch = 83.19867" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[30] name = &quot;R17&quot;, x = -0.20407378777139115, y = -0.9264828823689669, z = -0.3162014513279915, yaw = 147.16214, pitch = 67.893036" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[1] name = &quot;X&quot;, x = 1, y = 0, z = 0, yaw = 270, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[2] name = &quot;-X&quot;, x = -1, y = 0, z = 0, yaw = 90, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[3] name = &quot;Z&quot;, x = 0, y = 0, z = 1, yaw = 0, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[4] name = &quot;-Z&quot;, x = 0, y = 0, z = -1, yaw = 180, pitch = 0" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[5] name = &quot;Y&quot;, x = 0, y = 1, z = 0, yaw = 0, pitch = -90" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[6] name = &quot;-Y&quot;, x = 0, y = -1, z = 0, yaw = 0, pitch = 90" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[7] name = &quot;X Z&quot;, x = 0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 315, pitch = 0" classname="org.bukkit.LocationTest" time="0.009"/>
+  <testcase name="[8] name = &quot;X -Z&quot;, x = 0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 225, pitch = 0" classname="org.bukkit.LocationTest" time="0.011"/>
+  <testcase name="[9] name = &quot;-X -Z&quot;, x = -0.7071067811865476, y = 0, z = -0.7071067811865476, yaw = 135, pitch = 0" classname="org.bukkit.LocationTest" time="0.008"/>
+  <testcase name="[10] name = &quot;-X Z&quot;, x = -0.7071067811865476, y = 0, z = 0.7071067811865476, yaw = 45, pitch = 0" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[11] name = &quot;X Y Z&quot;, x = 0.5, y = 0.7071067811865476, z = 0.5, yaw = 315, pitch = -45" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[12] name = &quot;-X -Y -Z&quot;, x = -0.5, y = -0.7071067811865476, z = -0.5, yaw = 135, pitch = 45" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[13] name = &quot;R0&quot;, x = -0.17053160269706213, y = 0.9505960468454158, z = -0.25939569812053453, yaw = 146.67833, pitch = -71.91482" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[14] name = &quot;R1&quot;, x = -0.238805263256266, y = 0.667746336785327, z = -0.7050438822873951, yaw = 161.28825, pitch = -41.893364" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[15] name = &quot;R2&quot;, x = 0.16015618775751364, y = 0.8769445234378191, z = -0.45312062227997996, yaw = 199.46603, pitch = -61.27595" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[16] name = &quot;R3&quot;, x = -0.11823018359173693, y = -0.9805283458544488, z = -0.15679855440597223, yaw = 142.98276, pitch = 78.67479" classname="org.bukkit.LocationTest" time="0.004"/>
+  <testcase name="[17] name = &quot;R4&quot;, x = -0.6604587233666672, y = -0.25397255079809694, z = 0.7066061266150897, yaw = 43.066628, pitch = 14.712712" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[18] name = &quot;R5&quot;, x = 0.5570584890965621, y = -0.7512233184876334, z = -0.354047123256048, yaw = 237.56137, pitch = 48.696457" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[19] name = &quot;R6&quot;, x = 0.5483984268137726, y = 0.2598124550119239, z = 0.7948312108170239, yaw = 325.39603, pitch = -15.058934" classname="org.bukkit.LocationTest" time="0.0"/>
+  <testcase name="[20] name = &quot;R7&quot;, x = 0.5244654619485718, y = -0.8505032110041401, z = 0.03975257595072801, yaw = 274.33453, pitch = 58.266445" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[21] name = &quot;R8&quot;, x = -0.7897971285724331, y = -0.6004452169338639, z = -0.1252439106702787, yaw = 99.01078, pitch = 36.90179" classname="org.bukkit.LocationTest" time="0.003"/>
+  <testcase name="[22] name = &quot;R9&quot;, x = 0.14455063041445768, y = 0.25013891123105203, z = -0.9573586790408946, yaw = 188.58618, pitch = -14.485732" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[23] name = &quot;R10&quot;, x = -0.004590384770875916, y = 0.8267233474315325, z = 0.5625899351919272, yaw = 0.46748763, pitch = -55.763603" classname="org.bukkit.LocationTest" time="0.008"/>
+  <testcase name="[24] name = &quot;R11&quot;, x = -0.43594574804359026, y = 0.8747229451120411, z = 0.21168626327003778, yaw = 64.09975, pitch = -61.012203" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[25] name = &quot;R12&quot;, x = -0.2826405546807261, y = 0.9219747053008023, z = 0.264720531193314, yaw = 46.875134, pitch = -67.2165" classname="org.bukkit.LocationTest" time="0.002"/>
+  <testcase name="[26] name = &quot;R13&quot;, x = -0.3413268646928756, y = -0.9138302000400097, z = -0.220023491777054, yaw = 122.80633, pitch = 66.040146" classname="org.bukkit.LocationTest" time="0.005"/>
+  <testcase name="[27] name = &quot;R14&quot;, x = 0.08122483345134723, y = -0.44073299681995676, z = -0.893955788585152, yaw = 185.19164, pitch = 26.150658" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[28] name = &quot;R15&quot;, x = 0.35427177236039503, y = -0.8679330346721092, z = 0.3481145768759011, yaw = 314.49774, pitch = 60.219326" classname="org.bukkit.LocationTest" time="0.006"/>
+  <testcase name="[29] name = &quot;R16&quot;, x = -0.11789051434788278, y = -0.9929627581712894, z = -0.011259996077128293, yaw = 95.4559, pitch = 83.19867" classname="org.bukkit.LocationTest" time="0.001"/>
+  <testcase name="[30] name = &quot;R17&quot;, x = -0.20407378777139115, y = -0.9264828823689669, z = -0.3162014513279915, yaw = 147.16214, pitch = 67.893036" classname="org.bukkit.LocationTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

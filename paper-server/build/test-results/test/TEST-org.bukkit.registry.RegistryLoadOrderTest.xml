@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bukkit.registry.RegistryLoadOrderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:35.677Z" hostname="codespaces-8b369d" time="0.042">
+  <properties/>
+  <testcase name="[1] init = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d28a8@7354cd4f, keyedClass = interface org.bukkit.registry.RegistryLoadOrderTest$BukkitInterfaceTestType, minecraftToBukkit = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d2ad0@1b9ab4e4, first = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d2d08@6c1c12eb, second = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d2f30@644171ab" classname="org.bukkit.registry.RegistryLoadOrderTest" time="0.008"/>
+  <testcase name="[2] init = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d3388@2d1cc76e, keyedClass = class org.bukkit.registry.RegistryLoadOrderTest$BukkitAbstractTestType, minecraftToBukkit = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d35b0@71195725, first = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d37e8@68eb3dbc, second = org.bukkit.registry.RegistryLoadOrderTest$$Lambda/0x00000000922d3a10@58269959" classname="org.bukkit.registry.RegistryLoadOrderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

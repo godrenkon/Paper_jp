@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="13.8.0">
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/RotationImpl.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/FinePosition.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/AngleImpl.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/FinePositionImpl.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/Angle.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/package-info.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/Position.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/RotationsImpl.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/BlockPosition.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/BlockPositionImpl.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/Rotations.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/math/Rotation.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/ServerBuildInfo.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/package-info.java">
+</file>
+<file name="/workspaces/Paper_jp/paper-api/src/main/java/io/papermc/paper/InternalAPIBridge.java">
+</file>
+</checkstyle>

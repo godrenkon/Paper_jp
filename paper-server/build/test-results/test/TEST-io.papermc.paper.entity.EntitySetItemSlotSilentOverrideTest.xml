@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.papermc.paper.entity.EntitySetItemSlotSilentOverrideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-11T21:04:40.812Z" hostname="codespaces-8b369d" time="0.92">
+  <properties/>
+  <testcase name="[1] overridesSetItemSlot = public class net.minecraft.world.entity.decoration.ArmorStand extends public abstract net.minecraft.world.entity.LivingEntity extends  public abstract class net.minecraft.world.entity.Entity implements net.minecraft.world.Nameable, net.minecraft.world.level.entity.EntityAccess, net.minecraft.world.scores.ScoreHolder, net.minecraft.network.syncher.SyncedDataHolder, net.minecraft.core.component.DataComponentGetter, net.minecraft.world.entity.ItemOwner, net.minecraft.world.entity.SlotProvider, net.minecraft.u…" classname="io.papermc.paper.entity.EntitySetItemSlotSilentOverrideTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
